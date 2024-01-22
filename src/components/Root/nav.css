@@ -1,0 +1,13 @@
+.Navbar{
+    display: flex;
+    gap: 1rem;
+    padding: 2rem;
+    justify-content: flex-end;
+    background-color: aquamarine;
+    margin-top: 0;
+
+}
+.Navbar li{
+    list-style: none;
+    
+}
