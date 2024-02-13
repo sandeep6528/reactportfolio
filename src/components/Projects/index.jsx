@@ -11,10 +11,10 @@ const Projects = () => {
     },
 
     {
-      name:"Password",
+      name:"javascript-quizz",
      imageUrl: ProjectPick,
-     deployedLink:"https://sandeep6528.github.io/passwordgenerator/",
-     repoLink:"https://github.com/sandeep6528/passwordgenerator"
+     deployedLink:"https://github.com/sandeep6528/javascript-quizz",
+     repoLink:"https://sandeep6528.github.io/javascript-quizz/"
     },
 
     {
@@ -25,24 +25,24 @@ const Projects = () => {
     },
 
     {
-      name:"PasswordGenerator",
+      name:"note-tracker",
      imageUrl: ProjectPick,
-     deployedLink:"https://sandeep6528.github.io/passwordgenerator/",
-     repoLink:"https://github.com/sandeep6528/passwordgenerator"
+     deployedLink:"https://note-taker-sandeep-f43d811847d8.herokuapp.com/",
+     repoLink:"https://github.com/sandeep6528/note-tracker"
     },
 
     {
-      name:"PasswordGenerator",
+      name:"weatherdashboard",
      imageUrl: ProjectPick,
-     deployedLink:"https://sandeep6528.github.io/passwordgenerator/",
-     repoLink:"https://github.com/sandeep6528/passwordgenerator"
+     deployedLink:"https://sandeep6528.github.io/weatherdashboard/",
+     repoLink:"https://github.com/sandeep6528/weatherdashboard"
     },
 
     {
-      name:"PasswordGenerator",
+      name:"Javascript-Calendar",
      imageUrl: ProjectPick,
-     deployedLink:"https://sandeep6528.github.io/passwordgenerator/",
-     repoLink:"https://github.com/sandeep6528/passwordgenerator"
+     deployedLink:"https://sandeep6528.github.io/Javascript-Calendar/",
+     repoLink:"https://github.com/sandeep6528/Javascript-Calendar"
     },
   ]
 
