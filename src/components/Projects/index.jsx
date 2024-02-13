@@ -11,7 +11,7 @@ const Projects = () => {
     },
 
     {
-      name:"PasswordGenerator",
+      name:"Password",
      imageUrl: ProjectPick,
      deployedLink:"https://sandeep6528.github.io/passwordgenerator/",
      repoLink:"https://github.com/sandeep6528/passwordgenerator"
